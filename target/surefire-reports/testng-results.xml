@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="42" started-at="2020-06-30T11:55:38Z" finished-at="2020-06-30T11:55:38Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="42" started-at="2020-06-30T11:55:38Z" finished-at="2020-06-30T11:55:38Z">
+      <class name="RaviFramework.Mavenjava.WebApp">
+        <test-method status="PASS" signature="FourthMethod()[pri:0, instance:RaviFramework.Mavenjava.WebApp@442675e1]" name="FourthMethod" duration-ms="15" started-at="2020-06-30T17:25:38Z" finished-at="2020-06-30T17:25:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FourthMethod -->
+        <test-method status="PASS" signature="ThirdMethod()[pri:0, instance:RaviFramework.Mavenjava.WebApp@442675e1]" name="ThirdMethod" duration-ms="2" started-at="2020-06-30T17:25:38Z" finished-at="2020-06-30T17:25:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ThirdMethod -->
+      </class> <!-- RaviFramework.Mavenjava.WebApp -->
+      <class name="RaviFramework.Mavenjava.Selenium">
+        <test-method status="PASS" signature="SecondMethod()[pri:0, instance:RaviFramework.Mavenjava.Selenium@516be40f]" name="SecondMethod" duration-ms="2" started-at="2020-06-30T17:25:38Z" finished-at="2020-06-30T17:25:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SecondMethod -->
+        <test-method status="PASS" signature="StartAutomation()[pri:0, instance:RaviFramework.Mavenjava.Selenium@516be40f]" name="StartAutomation" duration-ms="0" started-at="2020-06-30T17:25:38Z" finished-at="2020-06-30T17:25:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartAutomation -->
+      </class> <!-- RaviFramework.Mavenjava.Selenium -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
